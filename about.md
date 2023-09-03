@@ -16,7 +16,7 @@ permalink: /about/
 📍 Yonsei Univ. , Soeul, Korea
 
 <div style="text-align: center;">
-  <img src="./assets/images/about/kwonsoon.jpg" width="410" height="500" style="display: inline-block;" />
+  <img src="{{ site.baseurl }}/assets/images/about/kwonsoon.jpg" width="410" height="500" style="display: inline-block;" />
 </div>
 
 
@@ -34,10 +34,10 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
 ## EDUCATION
 
 ---
-|Date                            |Model                           |Link                            |Degree|  
-|--------------------------------|:------------------------------:|:------------------------------:|:-----:|  
-|Sep. 2023 ~ current  |Yonsei University, Computational Science and Engineering |<a href="https://cse.yonsei.ac.kr/cse/index.do">CSE</a>|M.S|  
-|Mar. 2018 ~Aug. 2023  |Hallym University, Computer Science       |<a href="https://sw.hallym.ac.kr/index.php">Hallym</a>|B.S|  
+|Date                            |Model                           |Link                            |Degree |        
+|--------------------------------|:------------------------------:|:------------------------------:|:-----:|      
+|Sep. 2023 ~ current|Yonsei University, Computational Science and Engineering |<a href="https://cse.yonsei.ac.kr/cse/index.do">CSE</a>|M.S|    
+|Mar. 2018 ~Aug. 2023|Hallym University, Computer Science       |<a href="https://sw.hallym.ac.kr/index.php">Hallym</a>|B.S|    
 
 
 
