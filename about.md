@@ -1,21 +1,22 @@
 ---
 
 layout: single
-title: "About Me"
+title: "KWONSOON YONG"
 permalink: /about/
 
 ---
 
+[CV Download](https://drive.google.com/file/d/1qVR79WUlrT5dfnhpbITQWqVxxoXylMKO/view)
 
-# KWONSOON YONG
+📧yykks3971@gmail.com & kwonsoon@yonsei.ac.kr 
 
-📧yykks3971@gmail.com & yks3971@naver.com
 
 🌐 [https://github.com/reverse-sky](https://github.com/reverse-sky) & [https://velog.io/@reversesky](https://velog.io/@reversesky)
 
-📍4078-7, Naerincheon-ro, Girin-myeon, Inje-gun, Gangwon-do, Republic of Korea
+📍 Yonsei Univ. , Soeul, Korea
 
-📱+82) 
+
+[kwonsoon](/assets/images/about/your-image.jpg)
 <!-- 
 ![KakaoTalk_20220222_113424548 (1).jpg](KWONSOON%20YONG%207052a552f8a74c55a01a010cd0e741e7/KakaoTalk_20220222_113424548_(1).jpg) -->
 
