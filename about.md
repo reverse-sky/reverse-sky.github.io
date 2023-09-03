@@ -16,7 +16,7 @@ permalink: /about/
 📍 Yonsei Univ. , Soeul, Korea
 
 
-[kwonsoon](/assets/images/about/your-image.jpg)
+![kwonsoon](/assets/images/about/your-image.jpg)
 <!-- 
 ![KakaoTalk_20220222_113424548 (1).jpg](KWONSOON%20YONG%207052a552f8a74c55a01a010cd0e741e7/KakaoTalk_20220222_113424548_(1).jpg) -->
 
