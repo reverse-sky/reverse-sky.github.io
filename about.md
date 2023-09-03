@@ -16,7 +16,7 @@ permalink: /about/
 📍 Yonsei Univ. , Soeul, Korea
 
 <div style="text-align: center;">
-  <img src="assets/images/about/kwonsoon.jpg" width="410" height="500" style="display: inline-block;" />
+  <img src="./assets/images/about/kwonsoon.jpg" width="410" height="500" style="display: inline-block;" />
 </div>
 
 
