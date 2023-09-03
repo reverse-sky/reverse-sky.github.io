@@ -20,6 +20,11 @@ permalink: /about/
 <!-- 
 ![KakaoTalk_20220222_113424548 (1).jpg](KWONSOON%20YONG%207052a552f8a74c55a01a010cd0e741e7/KakaoTalk_20220222_113424548_(1).jpg) -->
 
+
+# Bio
+-----
+
+
 ## Research Interests
 
 ---
@@ -29,79 +34,38 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
 ## EDUCATION
 
 ---
+|Date                            |Model                           |Link                            |Degree|
+|--------------------------------|:------------------------------:|:------------------------------:|:-----:|
+|Sep. 2023 ~ current  |Yonsei University, Computational Science and Engineering       |<a href="https://cse.yonsei.ac.kr/cse/index.do">CSE</a>|M.S|
+|Mar. 2018 ~Aug. 2023  |Hallym University, Computer Science       |<a href="https://sw.hallym.ac.kr/index.php">Hallym</a>|B.S|
 
-Mar. 2018 ~
 
-Aug. 2023(scheduled)
-
-Hallym University, BigData(Computer Science)
-GPA: 4.27 / 4.5
-
-Chuncheon, Korea
 
 ## RESEARCH EXPERIENCES
 
 ---
 
-Mar 2023 ~ 
 
-present
-
-Sep. 2020 ~
-
-Dec.2022
-
-MIIL(Medical Image Innovation Laboratory)
-
-—Adviser: Prof. Wonjin Yi
-
-AACL(Advanced Ai Communication Lab)
-
-—Adviser: Prof. Wonjong Noh ,Prof. Sung Hoon Lim
-
-Seoul National Univ.
-
-Hallym. Univ. 
 
 ## ACTIVITIES
 
 ---
 
-Teaching Assistant
+|Subject | topics | period
+|----|:---:|:----|
+Teaching Assistant |Topics in Machine Learning|2022, Fall
 
-Teaching Assistant
+Teaching Assistant |Digital communication|2022, Spring
 
-Teaching Assistant
 
-Teaching Assistant
+Teaching Assistant|Basic Deep Neural Network|2022, Spring
 
-Participants
+Teaching Assistant|Artificial intelligence|2022, Spring
 
-Mentor
+Participants |Industry-Academic Cooperation Project|2021, Fall
 
-Topics in Machine Learning
+Mentor |Software Convergence College|2021, Spring
 
-Digital communication
-
-Basic Deep Neural Network 
-
-Artificial intelligence
-
-Industry-Academic Cooperation Project
-
-Software Convergence College
-
-2022, Fall
-
-2022, Fall
-
-2022, Spring
-
-2022, Spring
-
-2021, Fall
-
-2021, Spring
 
 ## PUBLICATIONS
 
@@ -111,9 +75,7 @@ Software Convergence College
 
 Min Hyuk Kim, **Kwonsoon Yong**, Abdallah Khreishah∗ , Sung-Hoon Lim, Wonjong Noh
 
-ICMIC,
-
-2022
+ICMIC, 2022
 
 **딥 러닝기반 실시간 영상처리를 통한 크랙 탐지 및 개인형 이동수단 주행 보조 시스템 개발**
 
@@ -127,41 +89,9 @@ ICMIC,
 
 ---
 
-**SW중심대학 공동 AI 경진대회**                                                — 장려상 
+**SW중심대학 공동 AI 경진대회**                                                —
 
- 2021년 SW창업 아이디어 경진대회                                       — 은상
 
-HBC-5 오픈소스 딥러닝 해커톤                                              — 은상
-
-2021년 SW창업 아이디어 경진대회                                        — 은상
-
-방학? 놀면 뭐하니? 오픈소스SW 개발 공모전                          — 금상
-
-2021 오픈소스sw 글로벌 아이디어 공모전                              — 동상
-
-2020 SW 세부 분야별 경진대회-오픈소스SW 이해와 활용     — 우수
-
-2020 SW교과목 추천 에세이 공모전                                     —  우수
-
-2020 Hallym SW Week-HBC-5 딥러닝 해커톤                  — 은상 
-
-2022 Nov
-
-2021 Nov
-
-2021 Nov
-
-2021 Nov
-
-2021 Aug
-
-2021 May
-
-2020 Dec
-
-2020 Dec
-
-2020 Nov
 
 ## SCHOLARSHIP
 
