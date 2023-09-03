@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
     - label: "Velog"
-      icon: "fas fa-fw fa-link"
+      icon: "fa-solid fa-blog"
        url: "https://velog.io/@reversesky"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
