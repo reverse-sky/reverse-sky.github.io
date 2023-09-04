@@ -16,10 +16,12 @@ permalink: /about/
 📍 Yonsei Univ. , Soeul, Korea
 
 <div style="text-align: center;">
-  <img src="{{ site.baseurl }}/assets/images/about/kwonsoon.jpg" width="410" height="500" style="display: inline-block;" />
+  <img src="{{ site.baseurl }}/assets/images/about/kwonsoon.jpg" width="210" height="250" style="display: inline-block;" />
 </div>
 
 <!-- 중앙에 위치하게끔 하는 코드 -->
+
+
 # Bio
 -----
 
@@ -30,39 +32,69 @@ permalink: /about/
 
 My research interests are **Data mining** and Meta learning. expecially about 1) Recommender system with Social network,  and 2) Graph Machine Learning in Network system.  
 
-## EDUCATION
+
+<details>
+<summary style="margin-left: 50px;font-size: larger;">EDUCATION</summary>
+<div style="margin-left: 25px;">
+
+|Date                            |Model                           |Link                            |paper                            |
+|--------------------------------|:------------------------------:|:------------------------------:|:------------------------------:|
+|2022-12-09 ~ 2022-12-13(실험)    |Graph Convolution Network       |<a href="./Graph/GCN/Cora">GCN</a>    |[Semi-Supervised Classification with Graph Convolutional Networks](https://arxiv.org/abs/1609.02907)|
+ 
+</div>
+</details>
 
 ---
+
+<details>
+<summary style="margin-left: 50px;font-size: 30px;">EDUCATION</summary>
+<div style="margin-left: 50px;">
 
 |Date|Model|Link|Degree|
 |--|:--:|:--:|:--:|
 |Sep. 2023 ~ current|Yonsei University, Computational Science and Engineering |[CSE](https://cse.yonsei.ac.kr/cse/index.do)|M.S|
 |Mar. 2018 ~Aug. 2023|Hallym University, Computer Science       |[Hallym](https://sw.hallym.ac.kr/index.php)|B.S|  
 
-
-## RESEARCH EXPERIENCES
-
----
-
+ 
+</div>
+</details>
 
 
-## ACTIVITIES
 
----
+<details>
+<summary style="margin-left: 50px;font-size: 30px;">ACTIVITIES</summary>
+<div style="margin-left: 50px;">
 
+  
 |Subject | topics | period|
 |----|:---:|:----|
-|Teaching Assistant |Topics in Machine Learning|2022, Fall
-
-|Teaching Assistant |Digital communication|2022, Spring
-
-|Teaching Assistant|Basic Deep Neural Network|2022, Spring
-
-|Teaching Assistant|Artificial intelligence|2022, Spring
-
-|Participants |Industry-Academic Cooperation Project|2021, Fall
-
+|Teaching Assistant |Topics in Machine Learning|2022, Fall|
+|Teaching Assistant |Digital communication|2022, Spring | 
+|Teaching Assistant|Basic Deep Neural Network|2022, Spring|
+|Teaching Assistant|Artificial intelligence|2022, Spring|
+|Participants |Industry-Academic Cooperation Project|2021, Fall|
 |Mentor |Software Convergence College|2021, Spring
+</div>
+</details>
+
+
+
+<details>
+<summary style="margin-left: 50px;font-size: 30px;">PROJECT</summary>
+<div style="margin-left: 50px;">
+
+  
+|Subject|topics|period|  
+|----|:---:|:----:|    
+|[Poster](https://github.com/reverse-sky/DL_Study/tree/main/Generative/DDPM)|DDPM|2023_summer|
+|--|--|2023_spring|  
+|--|--|2023_spring|  
+|--|--|2023_spring|    
+</div>
+</details>
+
+
+
 
 
 ## PUBLICATIONS
