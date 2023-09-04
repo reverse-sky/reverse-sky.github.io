@@ -36,46 +36,47 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
 
 
 
-<details>
+<!-- <details>
 <summary style="margin-left: 5px;font-size: 30px;">EDUCATION</summary>
-<div style="margin-left: 25px;">
-
-  |Date|Model|Link|Degree|
-  |--|:--:|:--:|:--:|
-  |Sep. 2023 ~ current|Yonsei University, Computational Science and Engineering |[CSE](https://cse.yonsei.ac.kr/cse/index.do)|M.S|
-  |Mar. 2018 ~Aug. 2023|Hallym University, Computer Science       |[Hallym](https://sw.hallym.ac.kr/index.php)|B.S|  
+<div style="margin-left: 25px;"> -->
+## EDUCATION
+|Date|Model|Link|Degree|
+|--|:--:|:--:|:--:|
+|Sep. 2023 ~ current|Yonsei University, Computational Science and Engineering |[CSE](https://cse.yonsei.ac.kr/cse/index.do)|M.S|
+|Mar. 2018 ~Aug. 2023|Hallym University, Computer Science       |[Hallym](https://sw.hallym.ac.kr/index.php)|B.S|  
  
-</div>
-</details>
+<!-- </div>
+</details> -->
 
 
-<details>
+<!-- <details>
 <summary style="margin-left: 5px;font-size: 30px;">RESEARCH EXPERIENCES</summary>
-<div style="margin-left: 25px;">
-
-  |Period|Lab|Prof|location|
-  |:--|:--:|:--:|:--:|
-  |July 2023~Current|MIDaS (Machine Intelligence & Data Science)lab|Prof. Won-Yong Shin|YONSEI University,Seoul,Korea|
-  |Mar 2023 ~Jun 2023|MIIL(Medical Image Innovation Laboratory)|Prof. Wonjin Yi|SEOUL National University, Seoul, Korea|
-  |Sep. 2020 –Dec. 2022|AACL(Advanced Ai Communication Lab) |Prof. Wonjong Noh , Prof. Sung Hoon Lim|Hallym University,  Chuncheon, Korea|
+<div style="margin-left: 25px;"> -->
+## RESEARCH EXPERIENCES
+|Period|Lab|Prof|location|
+|:--|:--:|:--:|:--:|
+|July 2023~Current|MIDaS (Machine Intelligence & Data Science)lab|Prof. Won-Yong Shin|YONSEI University,Seoul,Korea|
+|Mar 2023 ~Jun 2023|MIIL(Medical Image Innovation Laboratory)|Prof. Wonjin Yi|SEOUL National University, Seoul, Korea|
+|Sep. 2020 –Dec. 2022|AACL(Advanced Ai Communication Lab) |Prof. Wonjong Noh , Prof. Sung Hoon Lim|Hallym University,  Chuncheon, Korea|
  
-</div>
-</details>
+<!-- </div>
+</details> -->
 
 
-<details>
+<!-- <details>
 <summary style="margin-left: 5px;font-size: 30px;">ACTIVITIES</summary>
-<div style="margin-left: 50px;">
-  |Subject | topics | period|
-  |----|:---:|:----|
-  |Teaching Assistant |Topics in Machine Learning|2022, Fall|
-  |Teaching Assistant |Digital communication|2022, Spring | 
-  |Teaching Assistant|Basic Deep Neural Network|2022, Spring|
-  |Teaching Assistant|Artificial intelligence|2022, Spring|
-  |Participants |Industry-Academic Cooperation Project|2021, Fall|
-  |Mentor |Software Convergence College|2021, Spring
-</div>
-</details>
+<div style="margin-left: 50px;"> -->
+## ACTIVITIES
+|Subject | topics | period|
+|----|:---:|:----|
+|Teaching Assistant |Topics in Machine Learning|2022, Fall|
+|Teaching Assistant |Digital communication|2022, Spring | 
+|Teaching Assistant|Basic Deep Neural Network|2022, Spring|
+|Teaching Assistant|Artificial intelligence|2022, Spring|
+|Participants |Industry-Academic Cooperation Project|2021, Fall|
+|Mentor |Software Convergence College|2021, Spring
+<!-- </div>
+</details> -->
 
 
 
@@ -88,39 +89,41 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
 
 
 
-<details>
+<!-- <details>
 <summary style="margin-left: 5px;font-size: 30px;">AWARDS AND HONORS</summary>
 <div style="margin-left: 25px;">
 
  
 </div>
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary style="margin-left: 5px;font-size: 30px;">SCHOLARSHIP</summary>
-<div style="margin-left: 25px;">
-  |||||
-  |:--:|:--:|:--:|
-  |National Excellence in Science and Engineering Scholarship| Republic of Korea Government | 2022 Mar ~ Present 
-  |SW Overseas Training Scholarship | SW Department  in Hallym Univ | 2022 Summer
-  |School Excellence Scholarship  | Hallym Univ |  2018 Mar~ 2021 Sep
-  |SW Mentoring Scholarship | SW Department  in Hallym Univ |  2021 Mar~  2021 Summer
+<div style="margin-left: 25px;"> -->
+## SCHOLARSHIP
+|||||
+|:--:|:--:|:--:|
+|National Excellence in Science and Engineering Scholarship| Republic of Korea Government | 2022 Mar ~ Present 
+|SW Overseas Training Scholarship | SW Department  in Hallym Univ | 2022 Summer
+|School Excellence Scholarship  | Hallym Univ |  2018 Mar~ 2021 Sep
+|SW Mentoring Scholarship | SW Department  in Hallym Univ |  2021 Mar~  2021 Summer
  
-</div>
-</details>
+<!-- </div>
+</details> -->
 
 
-<details>
+<!-- <details>
 <summary style="margin-left: 5px;font-size: 30px;">PROJECT</summary>
-<div style="margin-left: 50px;">  
-  |Subject|topics|period|Adviser|  
-  |----|:---:|:----:|:--:|    
-  |[Poster](https://github.com/reverse-sky/DL_Study/tree/main/Generative/DDPM)|DDPM|2023_summer|--|
-  |Brain tumor Segmentation|Using the Brats 2013 Dataset to segment Brain Tumor. Attention Unet is used and various techniques have applied.|2021 Fall ~ 2022 Fall|--|  
-  |Capston Project|Development of Encoding techniques using Machine Learning|2022_spring|Prof. Sung Hoon Lim|  
+<div style="margin-left: 50px;">   -->
+## PROJECT
+|Subject|topics|period|Adviser|  
+|----|:---:|:----:|:--:|    
+|[Poster](https://github.com/reverse-sky/DL_Study/tree/main/Generative/DDPM)|DDPM|2023_summer|--|
+|Brain tumor Segmentation|Using the Brats 2013 Dataset to segment Brain Tumor. Attention Unet is used and various techniques have applied.|2021 Fall ~ 2022 Fall|--|  
+|Capston Project|Development of Encoding techniques using Machine Learning|2022_spring|Prof. Sung Hoon Lim|  
 |--|--|2023_spring|--|    
-</div>
-</details>
+<!-- </div>
+</details> -->
 
 ## PUBLICATIONS
 
