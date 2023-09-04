@@ -1,6 +1,5 @@
 ---
 
-layout: single
 title: "KWONSOON YONG"
 permalink: /about/
 
