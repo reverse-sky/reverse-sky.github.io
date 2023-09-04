@@ -1,7 +1,11 @@
 ---
 
+layout: single
 title: "KWONSOON YONG"
 permalink: /about/
+toc: true
+toc_sticky: true
+toc:label : "MYSELF"
 
 ---
 
