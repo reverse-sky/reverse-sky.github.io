@@ -19,7 +19,6 @@ permalink: /about/
   <img src="{{ site.baseurl }}/assets/images/about/kwonsoon.jpg" width="410" height="500" style="display: inline-block;" />
 </div>
 
-
 <!-- 중앙에 위치하게끔 하는 코드 -->
 # Bio
 -----
@@ -87,55 +86,26 @@ ICMIC, 2022
 
 ## AWARDS AND HONORS
 
----
-
-**SW중심대학 공동 AI 경진대회**                                                —
-
+--------------
 
 
 ## SCHOLARSHIP
 
 ---
 
-National Excellence in Science and Engineering Scholarship
+National Excellence in Science and Engineering Scholarship | Republic of Korea Government | 2022 Mar ~ Present 
 
-  — Republic of Korea Government
+SW Overseas Training Scholarship | SW Department  in Hallym Univ | 2022 Summer
 
-SW Overseas Training Scholarship
+School Excellence Scholarship  | Hallym Univ |  2018 Mar~ 2021 Sep
 
-— SW Department  in Hallym Univ
-
-  
-
-School Excellence Scholarship
-
-  — Hallym Univ.
-
-SW Mentoring Scholarship
-
-  — SW Department  in Hallym Univ
-
-2022 Mar~
-
-Present 
-
-2022 Summer
-
-2018 Mar~
-
-2021 Sep
-
-2021 Mar~ 
-
-2021 Summer
+SW Mentoring Scholarship | SW Department  in Hallym Univ |  2021 Mar~  2021 Summer
 
 ## OVERSEAS EXPERIENCE
 
 ---
 
-University of York, United Kingdom
-
-2022 Jul ~ 2022 Aug
+University of York, United Kingdom | 2022 Jul ~ 2022 Aug
 
 ## PROJECT
 
