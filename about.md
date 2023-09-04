@@ -50,20 +50,19 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
 
 ---
 
-|Subject | topics | period
+|Subject | topics | period|
 |----|:---:|:----|
-Teaching Assistant |Topics in Machine Learning|2022, Fall
+|Teaching Assistant |Topics in Machine Learning|2022, Fall
 
-Teaching Assistant |Digital communication|2022, Spring
+|Teaching Assistant |Digital communication|2022, Spring
 
+|Teaching Assistant|Basic Deep Neural Network|2022, Spring
 
-Teaching Assistant|Basic Deep Neural Network|2022, Spring
+|Teaching Assistant|Artificial intelligence|2022, Spring
 
-Teaching Assistant|Artificial intelligence|2022, Spring
+|Participants |Industry-Academic Cooperation Project|2021, Fall
 
-Participants |Industry-Academic Cooperation Project|2021, Fall
-
-Mentor |Software Convergence College|2021, Spring
+|Mentor |Software Convergence College|2021, Spring
 
 
 ## PUBLICATIONS
