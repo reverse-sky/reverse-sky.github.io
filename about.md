@@ -46,7 +46,7 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
 
 ## EDUCATION
 
-{% raw %}
+
 <table border=“1”>
   <tr>
     <th>Date</th>
@@ -67,7 +67,7 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
     <td>B.S</td>
   </tr>
 </table>
-{% endraw %}
+
 <!-- <details>
 <summary style="margin-left: 5px;font-size: 30px;">EDUCATION</summary>
 <div style="margin-left: 25px;">
