@@ -38,6 +38,201 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
 
 
 
+<!-- Resume Section
+   ================================================== -->
+   <section id=“resume”>
+
+      <!-- Education -->
+
+      <div class=“row education”>
+
+         <div class=“two columns header-col”>
+            <h1><span>Education</span></h1>
+         </div>
+
+         <div class=“ten columns main-col”>
+
+            <div class=“row item”>
+
+               <div class=“twelve columns”>
+
+                  <h5>Carnegie Mellon University</h5>
+                  <p class=“info”>Ph.D. in Computer Science
+				  <span>&bull;</span><em class=“date”>Feb. 2019</em><br/>
+				  M.S. in Computer Science
+				  <span>&bull;</span><em class=“date”>Dec. 2017</em>
+				  </p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+            <div class=“row item”>
+
+               <div class=“twelve columns”>
+
+                  <h5>Seoul National University</h5>
+                  <p class=“info”>B.S. in Computer Science and Engineering<span>&bull;</span><em class=“date”>Aug. 2015</em><br/>
+				  B.A. in Economics (Double Major)
+				  <span>&bull;</span><em class=“date”>Aug. 2015</em></p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+         </div> <!-- main-col end -->
+
+      </div> <!-- End Education -->
+
+
+      <!-- Work -->
+      <div class=“row work”>
+
+         <div class=“two columns header-col”>
+            <h1><span>Positions</span></h1></a>
+         </div>
+
+         <div class=“ten columns main-col”>
+
+			<div class=“row item”>
+
+               <div class=“twelve columns”>
+
+                  <h5>KAIST</h5>
+				  <p class=“info”>Associate Professor <span>&bull;</span> <em class=“date”>Mar. 2023 - Present</em></p>
+                  <p class=“info”>Ewon Endowed Assistant Professor <span>&bull;</span> <em class=“date”>Feb. 2019 - Feb. 2023</em></p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+            <div class=“row item”>
+
+               <div class=“twelve columns”>
+
+                  <h5>LinkedIn</h5>
+                  <p class=“info”>Research Intern <span>&bull;</span> <em class=“date”>May. 2017 - Aug. 2017 & May. 2018 - Aug. 2018</em></p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+            <div class=“row item”  id=“teaching”>
+
+               <div class=“twelve columns”>
+
+                  <h5>CYRAM</h5>
+                  <p class=“info”>Associate Researcher <span>&bull;</span> <em class=“date”>Jan. 2011 - Dec. 2013</em>
+				  
+				  </p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+         </div> <!-- main-col end -->
+
+      </div> <!-- End Work -->
+
+      <!-- Teaching -->
+      <div class=“row teaching”>
+
+         <div class=“two columns header-col”>
+            <h1><span>Teaching</span></h1></a>
+         </div>
+
+         <div class=“ten columns main-col”>
+
+			<div class=“row item”>
+
+               <div class=“twelve columns”>
+
+                  <h5>KAIST AI607 Graph Mining and Social Network Analysis</h5>
+                  <p class=“info”>Instructor <span>&bull;</span>
+				  <em class=“date”> [ <A HREF=“https://sites.google.com/view/ai607/home”>Fall 2023</A> | <A HREF=“https://sites.google.com/view/ai607-2022fall/home”>Fall 2022</A> | <A HREF=“https://sites.google.com/view/ai607-2021fall/home”>Fall 2021</A> |
+				   <A HREF=“https://sites.google.com/view/ai607-2020fall/home”>Fall 2020</A> |
+				   <A HREF=“https://sites.google.com/view/ai607-2019fall/home”>Fall 2019</A> ]</em></p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+			
+			<div class=“row item”>
+
+               <div class=“twelve columns”>
+
+                  <h5>KAIST AI506 Data Mining and Search</h5>
+                  <p class=“info”>Instructor <span>&bull;</span>
+				  <em class=“date”> [ <A HREF=“https://sites.google.com/view/ai506/home”>Spring 2023</A> | <A HREF=“https://sites.google.com/view/ai506-2022spring/home”>Spring 2022</A> | <A HREF=“https://sites.google.com/view/ai506-2021spring/home”>Spring 2021</A> | <A HREF=“https://sites.google.com/view/ai506-2020spring/home”>Spring 2020</A> ]</em></p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+
+
+			<div class=“row item”>
+
+               <div class=“twelve columns”>
+
+                  <h5>KAIST EE210 Probability and Introductory Random Processes</h5>
+                  <p class=“info”>Instructor <span>&bull;</span>
+				  <em class=“date”>[ <A HREF=“https://sites.google.com/view/ee210/home”>Fall 2020</A> ]</em></p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+			<div class=“row item”>
+
+               <div class=“twelve columns”>
+
+                  <h5>KAIST EE209(B) Programming Structure for Electrical Engineering</h5>
+                  <p class=“info”>Instructor <span>&bull;</span> <em class=“date”> [ <A HREF=“https://ee209-2019-spring.github.io/index.html”>Spring 2019</A> ]</em></p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+			<div class=“row item”>
+
+               <div class=“twelve columns”>
+
+                  <h5>CMU 10-601 Introduction to Machine Learning</h5>
+                  <p class=“info”>Teaching Assistant <span>&bull;</span> <em class=“date”> [ <A HREF=“https://piazza.com/cmu/fall2017/10601b/home”>Fall 2017</A> ]</em></p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+			<div class=“row item”>
+
+               <div class=“twelve columns”>
+
+                  <h5>CMU 15-780 Graduate Artificial Intelligence</h5>
+                  <p class=“info”>Teaching Assistant <span>&bull;</span> <em class=“date”> [ <A HREF=“https://www.cs.cmu.edu/~arielpro/15780s17/index.html”>Spring 2017</A> ]</em></p>
+
+               </div>
+
+            </div> <!-- item end -->
+
+
+         </div> <!-- main-col end -->
+
+      </div> <!-- End Teaching -->
+
+
+   </section> <!-- Resume Section End-->
+
+   <!-- Research Section
+   ================================================== -->
+
+
+
+
+
+
 
 <!-- <details>
 <summary style="margin-left: 5px;font-size: 30px;">EDUCATION</summary>
