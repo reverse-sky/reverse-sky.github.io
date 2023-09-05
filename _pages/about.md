@@ -59,13 +59,13 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
   <tr>
     <td>Sep. 2023 ~ current</td>
     <td>Yonsei University, Computational Science and Engineering</td>
-    <td>[CSE](https://cse.yonsei.ac.kr/cse/index.do)</td>
+    <td><a href="https://cse.yonsei.ac.kr/cse/index.do">CSE</a></td>
     <td>M.S</td>
   </tr>
   <tr>
     <td>Mar. 2018 ~Aug. 2023</td>
     <td>Hallym University, Computer Science</td>
-    <td>[Hallym](https://sw.hallym.ac.kr/index.php)</td>
+    <td><a href="https://sw.hallym.ac.kr/index.php">Hallym</a></td>
     <td>B.S</td>
   </tr>
 </table>
@@ -193,6 +193,7 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
 
 
 
+
 ## PROJECT
 
 
@@ -208,7 +209,7 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
     <th>Advisor</th>
   </tr>
   <tr>
-    <td>[Poster](https://github.com/reverse-sky/DL_Study/tree/main/Generative/DDPM)</td>
+    <td><a href="https://github.com/reverse-sky/DL_Study/tree/main/Generative/DDPM">Poster</a></td>
     <td>Attention Unet</td>
     <td>2021 Fall ~ 2022 Fall </td>
     <td>prof.Noh</td>
@@ -226,12 +227,11 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
 
 
 ## PUBLICATIONS
-
-
+>
 **UAV-Assisted Real-Time Monitoring and Detection of Maritime Infrastructure Defects**
 Min Hyuk Kim, **Kwonsoon Yong**, Abdallah Khreishah∗ , Sung-Hoon Lim, Wonjong Noh , ICMIC, 2022
 
-**딥 러닝기반 실시간 영상처리를 통한 크랙 탐지 및 개인형 이동수단 주행 보조 시스템 개발**
+>**딥 러닝기반 실시간 영상처리를 통한 크랙 탐지 및 개인형 이동수단 주행 보조 시스템 개발**
 문희찬, 김민혁, **용권순**, 한대현,김태운
 한국통신학회  학술대회 논문집, 2021                               
 
