@@ -44,18 +44,39 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
 
 
 
+## EDUCATION
 
+
+<table border=“1”>
+  <tr>
+    <th>Date</th>
+    <th>Department</th>
+    <th>Link</th>
+    <th>Degree</th>
+  </tr>
+  <tr>
+    <td>Sep. 2023 ~ current</td>
+    <td>Yonsei University, Computational Science and Engineering</td>
+    <td>[CSE](https://cse.yonsei.ac.kr/cse/index.do)</td>
+    <td>M.S</td>
+  </tr>
+  <tr>
+    <td>Mar. 2018 ~Aug. 2023</td>
+    <td>Hallym University, Computer Science</td>
+    <td>[Hallym](https://sw.hallym.ac.kr/index.php)</td>
+    <td>B.S</td>
+  </tr>
+</table>
 
 <!-- <details>
 <summary style="margin-left: 5px;font-size: 30px;">EDUCATION</summary>
-<div style="margin-left: 25px;"> -->
-## EDUCATION
-|Date|Model|Link|Degree|   
+<div style="margin-left: 25px;">
+|Date|Department|Link|Degree|   
 |--|--|--|--|   
 |Sep. 2023 ~ current|Yonsei University, Computational Science and Engineering |[CSE](https://cse.yonsei.ac.kr/cse/index.do)|M.S|  
 |Mar. 2018 ~Aug. 2023|Hallym University, Computer Science       |[Hallym](https://sw.hallym.ac.kr/index.php)|B.S|    
  
-<!-- </div>
+</div>
 </details> -->
 
 
