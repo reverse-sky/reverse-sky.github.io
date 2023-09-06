@@ -210,12 +210,19 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
   </tr>
   <tr>
     <td><a href="https://github.com/reverse-sky/DL_Study/tree/main/Generative/DDPM">Poster</a></td>
+    <td>DDPM Grad_CAM</td>
+    <td>2023 Summer </td>
+    <td>prof.Shin</td>
+  </tr>
+  
+  <tr>
+    <td>an industry-academic project</td>
     <td>Attention Unet</td>
     <td>2021 Fall ~ 2022 Fall </td>
     <td>prof.Noh</td>
   </tr>
   <tr>
-    <td>Capston</td>
+    <td>Capston design</td>
     <td>An error correction code</td>
     <td>2022_spring </td>
     <td>Prof. Sung Hoon Lim </td>
