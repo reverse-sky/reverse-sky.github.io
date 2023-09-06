@@ -234,8 +234,7 @@ My research interests are **Data mining** and Meta learning. expecially about 1)
 
 
 ## PUBLICATIONS
->
-**UAV-Assisted Real-Time Monitoring and Detection of Maritime Infrastructure Defects**
+>**UAV-Assisted Real-Time Monitoring and Detection of Maritime Infrastructure Defects**
 Min Hyuk Kim, **Kwonsoon Yong**, Abdallah Khreishah∗ , Sung-Hoon Lim, Wonjong Noh , ICMIC, 2022
 
 >**딥 러닝기반 실시간 영상처리를 통한 크랙 탐지 및 개인형 이동수단 주행 보조 시스템 개발**
