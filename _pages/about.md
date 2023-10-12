@@ -34,7 +34,8 @@ toc:label : "MYSELF"
 
 ---
 
-My research interests are **Data mining**, **Generative Modeling** and **Graph Neural Network(GNN)**. expecially about 1)Diffusion Models on Graphs,  and 2) Graph Representation Learning and 3) Recommender system with Social network  
+My research interests are **Data mining**, **Generative Modeling** and **Graph Neural Network(GNN)**. 
+expecially about 1)Diffusion Models on Graphs,  and 2) Graph Representation Learning and 3) Recommender system with Social network  
 
 ----
 
