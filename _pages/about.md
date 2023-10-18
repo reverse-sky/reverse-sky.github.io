@@ -25,10 +25,14 @@ toc:label : "MYSELF"
   <img src="{{ site.baseurl }}/assets/images/about/kwonsoon.jpg" width="210" height="250" style="display: inline-block;" />
 </div>
 
+
+
+
 <!-- 중앙에 위치하게끔 하는 코드 -->
 
 
 # Bio
+
 
 ## Research Interests
 
@@ -41,7 +45,26 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
 
 
 
+# The Latest News
 
+2023-10-18: I received the URP Poster award from the CSE Poster presentation.  
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/about/URP_AWARD.png" width="210" height="250" style="display: inline-block;" />
+</div>
+
+
+<details>
+<summary style="margin-left: 5px;font-size: 30px;">Past Events</summary>
+<div style="margin-left: 25px;">
+
+2023-08-23: I received the URP Poster award from the CSE Poster presentation.  
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/about/Certification_of_BS.png" width="210" height="250" style="display: inline-block;" />
+</div>
+
+
+</div>
+</details>
 
 
 
@@ -65,7 +88,7 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
   </tr>
   <tr>
     <td>Mar. 2018 ~Aug. 2023</td>
-    <td>Hallym University, Computer Science</td>
+    <td>Hallym University, Computer Science(Magna Cum Laude)</td>
     <td><a href="https://sw.hallym.ac.kr/index.php">Hallym</a></td>
     <td>B.S</td>
   </tr>
@@ -234,13 +257,23 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
 
 
 
+
 ## PUBLICATIONS
+<details>
+<summary style="margin-left: 5px;font-size: 30px;">Detail</summary>
+<div style="margin-left: 25px;">
+ 
 >**UAV-Assisted Real-Time Monitoring and Detection of Maritime Infrastructure Defects**
 Min Hyuk Kim, **Kwonsoon Yong**, Abdallah Khreishah∗ , Sung-Hoon Lim, Wonjong Noh , ICMIC, 2022
 
 >**딥 러닝기반 실시간 영상처리를 통한 크랙 탐지 및 개인형 이동수단 주행 보조 시스템 개발**
 문희찬, 김민혁, **용권순**, 한대현,김태운
 한국통신학회  학술대회 논문집, 2021                               
+
+
+</div>
+</details>
+
 
 ## OVERSEAS EXPERIENCE
 
