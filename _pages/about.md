@@ -57,11 +57,15 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
 <summary style="margin-left: 5px;font-size: 30px;">Past Events</summary>
 <div style="margin-left: 25px;">
 
-2023-08-23: I received the URP Poster award from the CSE Poster presentation.  
+2023-08-23: I graduated with a degree in  Computer Science from "Hallym University", earning Magna Cum Laude honors.  
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/about/Certification_of_BS.png" width="210" height="250" style="display: inline-block;" />
 </div>
 
+2023-05-13: I received the Outstanding Poster Paper Award award from "The Korean Society of Medical & Biological Engineering".
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/about/2023_spring_poster.png" width="210" height="250" style="display: inline-block;" />
+</div>
 
 </div>
 </details>
@@ -88,7 +92,7 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
   </tr>
   <tr>
     <td>Mar. 2018 ~Aug. 2023</td>
-    <td>Hallym University, Computer Science(Magna Cum Laude)</td>
+    <td>Hallym University, Computer Science(<b>Magna Cum Laude</b>)</td>
     <td><a href="https://sw.hallym.ac.kr/index.php">Hallym</a></td>
     <td>B.S</td>
   </tr>
@@ -231,14 +235,19 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
     <th>topics</th>
     <th>period</th>
     <th>Advisor</th>
-  </tr>
+  </tr> 
   <tr>
     <td><a href="https://github.com/reverse-sky/DL_Study/tree/main/Generative/DDPM">Poster</a></td>
     <td>DDPM Grad_CAM</td>
     <td>2023 Summer </td>
     <td>prof.Shin</td>
   </tr>
-  
+  <tr>
+    <td>Poster Presentation</td>
+    <td>Medical Segmentation</td>
+    <td>2023 Spring</td>
+    <td>prof.Lee</td>
+  </tr>   
   <tr>
     <td>an industry-academic project</td>
     <td>Attention Unet</td>
@@ -263,16 +272,24 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
 <summary style="margin-left: 5px;font-size: 30px;">Detail</summary>
 <div style="margin-left: 25px;">
  
->**UAV-Assisted Real-Time Monitoring and Detection of Maritime Infrastructure Defects**
-Min Hyuk Kim, **Kwonsoon Yong**, Abdallah Khreishah∗ , Sung-Hoon Lim, Wonjong Noh , ICMIC, 2022
+<ul>
+<li><b>UAV-Assisted Real-Time Monitoring and Detection of Maritime Infrastructure Defects</b>
+Min Hyuk Kim, <b>Kwonsoon Yong</b>, Abdallah Khreishah∗ , Sung-Hoon Lim, Wonjong Noh , ICMIC, 2022  
+</li>
 
->**딥 러닝기반 실시간 영상처리를 통한 크랙 탐지 및 개인형 이동수단 주행 보조 시스템 개발**
-문희찬, 김민혁, **용권순**, 한대현,김태운
+<li>
+<b>딥 러닝기반 실시간 영상처리를 통한 크랙 탐지 및 개인형 이동수단 주행 보조 시스템 개발</b>
+>문희찬, 김민혁, <b>용권순</b>, 한대현,김태운
 한국통신학회  학술대회 논문집, 2021                               
+
+</li>
+</ul>
 
 
 </div>
-</details>
+</details>  
+
+  
 
 
 ## OVERSEAS EXPERIENCE
