@@ -4,7 +4,11 @@ main:
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About me"
     url: /about/
+  - title: "Presentation"
+    url: /Presentation/
 
+  - title: "blog"
+    url: /blog/    
     # url: https://reverse-sky.github.io/about
   # - title: "Sample Posts"
   #   url: https://reverse-sky.github.io/docs/_pages/about.html
