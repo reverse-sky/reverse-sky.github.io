@@ -150,6 +150,16 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
   </tr>
   <tr>
     <td>Teaching Assistant</td>
+    <td>Midas LAB CSE Intern Program</td>
+    <td>2024, Winter</td>
+  </tr>  
+  <tr>
+    <td>Teaching Assistant</td>
+    <td>Math for machine learning[CSE5003]</td>
+    <td>2023, Fall</td>
+  </tr>  
+  <tr>
+    <td>Teaching Assistant</td>
     <td>Topics in Machine Learning</td>
     <td>2022, Fall</td>
   </tr>
