@@ -49,7 +49,7 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
 
 [June. 2024] Scheduled: **Invited talk**: Emerging Trends in Graph Generative Models: Focus on Diffusion Processes, Graph User Group (GUG) 4th Seminar, Korea.
 
-[May, 2024] ** Invited talk **:  Advanced Neural Network with Graph Structure: [An Introduction to Graph Neural Network Learning and Its Recent Trends],  Sinchon Seminar of Graduates in Mathematics(SSG) 4th Seminar, Korea.
+[May, 2024] **Invited talk**:  Advanced Neural Network with Graph Structure: [An Introduction to Graph Neural Network Learning and Its Recent Trends],  Sinchon Seminar of Graduates in Mathematics(SSG) 4th Seminar, Korea.
 <!-- <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/about/URP_AWARD.png" width="210" height="250" style="display: inline-block;" />
 </div> -->
