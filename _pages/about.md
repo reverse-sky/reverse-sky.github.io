@@ -65,10 +65,11 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
   <img src="{{ site.baseurl }}/assets/images/about/URP_AWARD.png" width="210" height="250" style="display: inline-block;" />
 </div>
 
-
+<!-- 
 <details>
 <summary style="margin-left: 5px;font-size: 30px;">Past Events</summary>
 <div style="margin-left: 25px;">
+-->
 
 [August, 2023] I graduated with a degree in  Computer Science from "Hallym University", earning Magna Cum Laude honors.  
 <div style="text-align: center;">
@@ -79,9 +80,11 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/about/2023_spring_poster.png" width="210" height="250" style="display: inline-block;" />
 </div>
+<!-- 
 
 </div>
 </details>
+-->
 
 
 
