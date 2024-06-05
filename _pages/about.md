@@ -47,7 +47,20 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
 
 # The Latest News
 
-2023-10-18: I received the URP Poster award from the CSE Poster presentation.  
+[June. 2024] Scheduled: **Invited talk**: Emerging Trends in Graph Generative Models: Focus on Diffusion Processes, Graph User Group (GUG) 4th Seminar, Korea.
+
+[May, 2024] ** Invited talk **:  Advanced Neural Network with Graph Structure: [An Introduction to Graph Neural Network Learning and Its Recent Trends],  Sinchon Seminar of Graduates in Mathematics(SSG) 4th Seminar, Korea.
+<!-- <div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/about/URP_AWARD.png" width="210" height="250" style="display: inline-block;" />
+</div> -->
+
+
+[March, 2024] Congratulations! The project you worked on as an undergraduate intern during the winter has won an award from the CSE."  
+<!-- <div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/about/URP_AWARD.png" width="210" height="250" style="display: inline-block;" />
+</div> -->
+
+[October, 2023]: I received the URP Poster award from the CSE Poster presentation.  
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/about/URP_AWARD.png" width="210" height="250" style="display: inline-block;" />
 </div>
@@ -57,12 +70,12 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
 <summary style="margin-left: 5px;font-size: 30px;">Past Events</summary>
 <div style="margin-left: 25px;">
 
-2023-08-23: I graduated with a degree in  Computer Science from "Hallym University", earning Magna Cum Laude honors.  
+[August, 2023] I graduated with a degree in  Computer Science from "Hallym University", earning Magna Cum Laude honors.  
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/about/Certification_of_BS.png" width="210" height="250" style="display: inline-block;" />
 </div>
 
-2023-05-13: I received the Outstanding Poster Paper Award award from "The Korean Society of Medical & Biological Engineering".
+[May, 2023] I received the Outstanding Poster Paper Award award from "The Korean Society of Medical & Biological Engineering".
 <div style="text-align: center;">
   <img src="{{ site.baseurl }}/assets/images/about/2023_spring_poster.png" width="210" height="250" style="display: inline-block;" />
 </div>
@@ -149,44 +162,44 @@ Expecially about 1)Diffusion Models on Graphs, 2) Graph Representation Learning 
     <th>period</th>
   </tr>
   <tr>
-    <td>Teaching Assistant</td>
-    <td>Midas LAB CSE Intern Program</td>
-    <td>2024, Winter</td>
+    <td>Teaching Assistant(scheduled)</td>
+    <td>CSE Intern Program in Midas Lab</td>
+    <td>Summer, 2024</td>
   </tr>  
   <tr>
     <td>Teaching Assistant</td>
-    <td>Math for machine learning[CSE5003]</td>
-    <td>2023, Fall</td>
+    <td>CSE Intern Program in Midas Lab</td>
+    <td>Winter, 2023</td>
   </tr>  
   <tr>
     <td>Teaching Assistant</td>
     <td>Topics in Machine Learning</td>
-    <td>2022, Fall</td>
+    <td>Fall, 2022</td>
   </tr>
   <tr>
     <td>Teaching Assistant</td>
     <td>Digital communication</td>
-    <td>2022, Fall</td>
+    <td>Fall, 2022</td>
   </tr>  
   <tr>
     <td>Teaching Assistant</td>
     <td>Basic Deep Neural Network</td>
-    <td>2022, Spring</td>
+    <td>Spring, 2022</td>
   </tr>
   <tr>
     <td>Teaching Assistant</td>
     <td>Artificial intelligence</td>
-    <td>2022, Spring</td>
+    <td>Spring, 2022</td>
   </tr> 
   <tr>
     <td>Participants</td>
     <td>Industry-Academic Cooperation Project</td>
-    <td>2021, Fall</td>
+    <td>Fall, 2021</td>
   </tr> 
   <tr>
     <td>Mentor</td>
     <td>Software Convergence College</td>
-    <td>2021, Spring</td>
+    <td>Spring, 2021</td>
   </tr>   
 </table>
 </div>
